@@ -1,17 +1,21 @@
 .my-bg-color{
     background-color:rgb(44, 62, 80) ; 
 } 
-
-.my-y{
-    background-color: yellow;
+ 
+.my-bg-color-green{
+    background-color: rgb(26, 188, 156);
 } 
+.my-bg-color-blu{
+    background-color: rgb(58, 84, 109);
+} 
+.my-bg-color-dark{
+    background-color: rgb(44, 62, 80);
+}
 
 [class*="col-"]{
     height: 50px; 
    border: 1px solid yellow;
 } 
 
-section#jumbo{ 
-    background-color: rgb(26, 188, 156); 
 
-}  
+
