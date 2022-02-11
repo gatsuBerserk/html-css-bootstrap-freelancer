@@ -11,6 +11,20 @@
 } 
 
 [class*="col-"]{
-    height: 100px; 
+    height: 50px; 
    border: 1px solid tomato;
+} 
+.border-radius{
+    border-radius: 50%;
 }
+section#jumbo{ 
+    background-color: rgb(26, 188, 156); 
+    height: 300px;
+
+}  
+
+section#main{
+    border: 2px solid black;
+    height: 400px;
+}
+
