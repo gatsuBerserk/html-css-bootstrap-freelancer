@@ -1,4 +1,16 @@
 .my-bg-color{
     background-color:rgb(44, 62, 80) ; 
-    height: 100px;
+} 
+
+.my-y{
+    background-color: yellow;
+}
+
+.my-color-white{
+    color: white;
+} 
+
+[class*="col-"]{
+    height: 100px; 
+   border: 1px solid tomato;
 }
