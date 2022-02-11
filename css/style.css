@@ -8,19 +8,10 @@
 
 [class*="col-"]{
     height: 50px; 
-   border: 1px solid tomato;
+   border: 1px solid yellow;
 } 
-.border-radius{
-    border-radius: 50%;
-}
+
 section#jumbo{ 
     background-color: rgb(26, 188, 156); 
-    height: 400px; 
 
 }  
-
-section#main{
-    height: 400px; 
-    background-color:rgb(26, 188, 156)
-}
-
