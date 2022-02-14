@@ -12,10 +12,26 @@
     background-color: rgb(44, 62, 80);
 }
 
-[class*="col-"]{
-    height: 50px; 
-   border: 1px solid yellow;
+section#jumbo .container .row .jumbo-box figure img{
+    height: 200px;
+} 
+
+section#jumbo .container .jumbo-box{
+    height: 450px; 
+    width: 500px; 
+    margin: 0 auto;
+    
 } 
 
 
 
+section#jumbo .container .row .jumbo-box .jumbo-box-star .star{
+    width: 30px;
+}
+
+section#jumbo .container .row .jumbo-box .jumbo-box-star .line{
+    width: 100px; 
+    height: 3px;
+    border-radius: 50px;
+    background-color: silver;
+}
