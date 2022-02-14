@@ -13,6 +13,9 @@ body{
 } 
 .my-bg-color-dark{
     background-color: rgb(44, 62, 80);
+} 
+.my-color-green{
+    color: green;
 }
 
 section#jumbo .container .row .jumbo-box figure img{
@@ -39,4 +42,9 @@ section#jumbo .container .jumbo-box{
 
 section#main #cards img{
     width:100%;
+} 
+
+footer section#info .my-icon{
+    width: 50px;
+    height: 50px;
 }
